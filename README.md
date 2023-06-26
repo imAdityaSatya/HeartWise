@@ -1,4 +1,4 @@
 # HeartWise
-Predicting Heart Disease with Machine Learning : a KNN Approach
+A user friendly application to detect heart disease
 
-A user friendly application to predict heart disease
+Predicting Heart Disease with Machine Learning : a KNN Approach
